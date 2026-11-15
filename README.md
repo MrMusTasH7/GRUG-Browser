@@ -8,11 +8,15 @@ This is a Chromium-based Web Browser that I made because I have been using diffe
 
 <img width="1920" height="1042" alt="GRUG Example 1" src="https://github.com/user-attachments/assets/e8f98b4a-2e4a-4147-b39f-8dd6beeaa490" />
 This is what the default Home Screen looks like
+
 <img width="1918" height="1039" alt="GRUG Example 2" src="https://github.com/user-attachments/assets/1fb3fa2c-bb5c-4450-8f4f-1e6dc3e7fea1" />
 This is what a customized Home Srceen can look like
+
 <img width="635" height="906" alt="GRUG Example 3" src="https://github.com/user-attachments/assets/9e3fd302-2104-478c-a991-624bbf200caf" />
 This is the most complicated version of sound engineering you can mess with inside the Equalizer for your preferred sounds for your media
+
 <img width="861" height="1040" alt="GRUG Example 4" src="https://github.com/user-attachments/assets/41c6d8ad-fdc0-44c4-ad85-95f59f9fd7ad" />
 These are the userscripts included from default, and they work the same way as TamperMonkey, ViolentMonkey, GreaseMonkey, etc
+
 <img width="660" height="1040" alt="GRUG Example 5" src="https://github.com/user-attachments/assets/58d97ec5-fcba-44b4-8e4a-26af5406f364" />
 These are the default extension you can use that are included (might not all function as intended, it's still in testing), however you can also copy an extension page link from google and import your own, as for some reason no matter what, actually accessing the extension pages crashes the browser after everything I've tried changing
