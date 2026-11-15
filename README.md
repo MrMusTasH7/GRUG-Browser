@@ -19,4 +19,5 @@ This is the most complicated version of sound engineering you can mess with insi
 These are the userscripts included from default, and they work the same way as TamperMonkey, ViolentMonkey, GreaseMonkey, etc
 <br><br>
 <img width="660" height="1040" alt="GRUG Example 5" src="https://github.com/user-attachments/assets/58d97ec5-fcba-44b4-8e4a-26af5406f364" />
+<br><br>
 These are the default extension you can use that are included (might not all function as intended, it's still in testing), however you can also copy an extension page link from google and import your own, as for some reason no matter what, actually accessing the extension pages crashes the browser after everything I've tried changing
