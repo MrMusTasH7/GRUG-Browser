@@ -13,6 +13,7 @@ This is what the default Home Screen looks like
 This is what a customized Home Srceen can look like
 |
 <img width="635" height="906" alt="GRUG Example 3" src="https://github.com/user-attachments/assets/9e3fd302-2104-478c-a991-624bbf200caf" />
+|
 This is the most complicated version of sound engineering you can mess with inside the Equalizer for your preferred sounds for your media
 |
 <img width="861" height="1040" alt="GRUG Example 4" src="https://github.com/user-attachments/assets/41c6d8ad-fdc0-44c4-ad85-95f59f9fd7ad" />
