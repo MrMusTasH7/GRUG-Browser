@@ -4,6 +4,8 @@ This is GRUG Browser, a Chromium-based streaming focused app with bonus features
 <br><br>
 This is a Chromium-based Web Browser that I made because I have been using different browsers for a long time, and they all have their pros and cons, but I find that they all have one thing in common, they're slow, and inefficient, in one way or another. I've made GRUG Browser specifically for the purpose of speedy and low-resource streaming, however it's still pretty good for other usages too. So that this was possible and made to be the best that it possibly can be, I used Claude AI, however I'd like to also add that I am as a rule against AI, but occasionally I decide to use it for certain unachievable tasks, and as a random person who doesn't know how to code, or have a lot of money, I gave in so I can still have a good browsing experience. This might not be for everyone, but it has everything that I could ever want, so you can enjoy it with me if you'd like, or just ignore it and use your own browsers. Also yes, this originated as a meme browser bases off of The Croods meme, but then i decided to actually make it a real thing, and just kept it.
 <br><br>
+<img width="512" height="512" alt="icon" src="https://github.com/user-attachments/assets/afb45d80-3a60-4d5b-ba1c-8a876eb3539b" />
+<br><br>
 <img width="1920" height="1042" alt="GRUG Example 1" src="https://github.com/user-attachments/assets/e8f98b4a-2e4a-4147-b39f-8dd6beeaa490" />
 This is what the default Home Screen looks like
 <br><br>
