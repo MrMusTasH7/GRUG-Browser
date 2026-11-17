@@ -23,3 +23,14 @@ These are the userscripts included from default, and they work the same way as T
 <img width="660" height="1040" alt="GRUG Example 5" src="https://github.com/user-attachments/assets/58d97ec5-fcba-44b4-8e4a-26af5406f364" />
 <br><br>
 These are the default extension you can use that are included (might not all function as intended, it's still in testing), however you can also copy an extension page link from google and import your own, as for some reason no matter what, actually accessing the extension pages crashes the browser after everything I've tried changing
+<br><br>
+<br><br>
+<br><br>
+Installation Instructions:
+<br><br>
+<br><br>
+All you've got to do to install is run build.bat (or build-linux.sh) for the full version, and then if you want the lite version you can do so from now on and remove the full version later as it uses the full install as a base to copy off of when building so it can do so offline.
+<br><br>
+Next if you want to watch DRM protected content, such as Netflix and Disney+, you'll have to run sign-vmp.bat and follow the instructions (although if it doesn't work, just remember that it's currently being worked on).
+<br><br>
+Note that the Linux version is also in early testing too, so everything might not be the same or work yet.
