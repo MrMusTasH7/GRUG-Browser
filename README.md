@@ -1,6 +1,6 @@
 # GRUG-Browser
 <img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/afb45d80-3a60-4d5b-ba1c-8a876eb3539b" />
-This is GRUG Browser, a Chromium-based streaming focused app with bonus features for a small audience that was only supposed to contain myself. It was made with Claude AI, so if you don't like vibecoding, then you can leave now, but I can promise fast speeds and low memory usage with high customizability.
+-This is GRUG Browser, a Chromium-based streaming focused app with bonus features for a small audience that was only supposed to contain myself. It was made with Claude AI, so if you don't like vibecoding, then you can leave now, but I can promise fast speeds and low memory usage with high customizability.
 -
 
 <img width="512" height="512" alt="icon" src="https://github.com/user-attachments/assets/afb45d80-3a60-4d5b-ba1c-8a876eb3539b" />
