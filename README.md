@@ -28,7 +28,6 @@ These are the default extension you can use that are included (might not all fun
 <br><br>
 Installation Instructions:
 <br><br>
-<br><br>
 All you've got to do to install is run build.bat (or build-linux.sh) for the full version, and then if you want the lite version you can do so from now on and remove the full version later as it uses the full install as a base to copy off of when building so it can do so offline.
 <br><br>
 Next if you want to watch DRM protected content, such as Netflix and Disney+, you'll have to run sign-vmp.bat and follow the instructions (although if it doesn't work, just remember that it's currently being worked on).
